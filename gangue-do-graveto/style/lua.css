@@ -1,0 +1,12 @@
+#lua, p {
+    font-family: 'Rancho';
+    font-size: 28px;
+}
+
+#lua, h2{
+    font-family: 'Kadwa';
+}
+
+#lua, p{
+    text-align: justify;
+}

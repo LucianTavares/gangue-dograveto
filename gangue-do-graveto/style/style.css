@@ -1,0 +1,38 @@
+body, h2, p{
+    font-family: 'Concert One';
+}
+
+h1 {
+    font-family: 'Concert One';
+    font-size: 120px;
+    color: aqua;
+    text-shadow: 5px 5px 10px black;
+}
+
+a {
+    width: 180px;
+    margin: 1px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#todosJuntos{
+    box-shadow: 5px 5px 15px black;
+    margin: 25px;
+}
+
+select{
+    font-size: 20px;
+}
+
+#rodape{
+    font-family: 'VT323';
+    font-size: 20px;
+}
+
