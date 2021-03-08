@@ -1,3 +1,7 @@
 #galeria, h2, p {
     font-family: 'Audiowide';
 }
+
+.mySlides {
+    display: none;
+}
